@@ -73,7 +73,7 @@ Here's my current availability for tutoring sessions:
   margin-top: 2em;
 ">
   <a href="{{ "/" | relative_url }}">← Return to Homepage</a>
-  <a href="{{ "/fees/" | relative_url }}">Go to Next Page →</a>
+  <a href="{{ "/fees/" | relative_url }}">Go to Next Page (Fees) →</a>
 </div>
 
 
