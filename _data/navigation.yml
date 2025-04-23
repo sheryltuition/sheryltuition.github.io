@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Testimonials"
+    url: /testimonials/
+
+  - title: "Schedule"
+    url: /schedule/
+
+  - title: "Fees"
+    url: /fees/
+
+  - title: "Background"
+    url: /background/
