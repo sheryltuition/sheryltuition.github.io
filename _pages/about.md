@@ -20,3 +20,10 @@ I am Sheryl Sevilla, a 4th-year Environmental Science student at Nanyang Technol
 </div>
 
 <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbTb5A1ExhbgerrwnKw7TEizOgd-RW1v75WAlYUll_U-Hc2A/viewform?usp=dialog" target="_blank">Fill out our form</a> -->
+
+## Quick Links
+
+Looking for something? Check out the key pages on this site:
+
+- [Schedule]({{ "/schedule/" | relative_url }})
+- [Fees]({{ "/fees/" | relative_url }})
