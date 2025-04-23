@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Sheryl Sevilla, a 4th-year Environmental Science student at Nanyang Technological University, majoring in Environmental Earth System Science. I love helping secondary school students unlock their potential in Math, Geography, and Science. I create a dynamic learning environment where students take an active role, encouraging them to attempt problems independently and reflect on their mistakes. Together, we address misconceptions, strengthen problem-solving skills, and foster a genuine passion for learning. Let’s make learning an exciting journey, achieve top marks, and build lasting confidence!
+I'm Sheryl Sevilla, a graduate from Nanyang Technological University with a degree in Environmental Earth System Science. I'm passionate about helping secondary students succeed in Math, Geography, and Science. My engaging lessons focus on strengthening problem-solving abilities, clearing up confusion, and sparking real curiosity. Let's work together for excellent results and lasting confidence!
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxEXxQgsWvXIWL4KCpSIHRTX4XE2KgP92qMQ33tf0Fr5raLA/viewform?embedded=true" width="640" height="422" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
