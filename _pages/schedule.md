@@ -27,7 +27,7 @@ Here's my current availability for tutoring sessions:
       <td style="white-space: nowrap;">Tuesday 10am-12pm<br>Friday 3pm-5pm</td>
     </tr>
     <tr>
-      <td rowspan="2">Additional Mathematics</td>
+      <td rowspan="3">Additional Mathematics</td>
       <td>Secondary 3</td>
       <td style="white-space: nowrap;">Monday 3pm-5pm<br>Tuesday 3pm-5pm</td>
     </tr>
