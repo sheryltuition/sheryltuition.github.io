@@ -20,30 +20,34 @@ Here's my current availability for tutoring sessions:
     <tr>
       <td rowspan="2">Geography</td>
       <td>Secondary 3</td>
-      <td style="white-space: nowrap;">Tuesday 3pm-5pm<br>Wednesday 10am-12pm</td>
+      <td style="white-space: nowrap;">Wednesday 10am-12pm<br>Friday 10am-12pm</td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">Secondary 4/5</td>
-      <td></td>
+      <td style="white-space: nowrap;">Tuesday 10am-12pm<br>Friday 3pm-5pm</td>
     </tr>
     <tr>
       <td rowspan="2">Additional Mathematics</td>
       <td>Secondary 3</td>
-      <td></td>
+      <td style="white-space: nowrap;">Monday 3pm-5pm<br>Tuesday 3pm-5pm</td>
     </tr>
     <tr>
-      <td>Secondary 4</td>
-      <td></td>
+      <td>Secondary 4 (NA)</td>
+      <td style="white-space: nowrap;">Wednesday 6pm-8pm</td>
+    </tr>
+    <tr>
+      <td>Secondary 4/5</td>
+      <td style="white-space: nowrap;">Monday 6pm-8pm<br>Thursday 10am-12pm</td>
     </tr>
     <tr>
       <td>Elementary Mathematics</td>
-      <td>Secondary 4</td>
-      <td></td>
+      <td>Secondary 4/5</td>
+      <td style="white-space: nowrap;">Thursday 3pm-5pm<br>Friday 6pm-8pm<br>Saturday 9am-11am</td>
     </tr>
     <tr>
       <td>Mathematics</td>
       <td>Secondary 2</td>
-      <td></td>
+      <td style="white-space: nowrap;">Monday 10am-12pm<br>Wednesday 3pm-5pm</td>
     </tr>
   </tbody>
 </table>
@@ -58,7 +62,7 @@ Here's my current availability for tutoring sessions:
 **How to Book a Session:**
 
 1.  Check the table above for available time slots.
-2.  Send me an email at sherylsevilla02@gmail.com with your preferred date, time, and subject.
+2.  Send me an email at sheryltuition@gmail.com with your preferred date, time, and subject.
 3.  I'll confirm your booking within 24 hours.
 
 **Note:**
