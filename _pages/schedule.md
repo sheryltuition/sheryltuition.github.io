@@ -7,7 +7,6 @@ permalink: /schedule/
 Here's my current availability for tutoring sessions:
 
 **[June, 2025]**
-
 <!-- <table style="border-collapse: collapse; width: 100%; font-size: 13px;">
   <thead style="border-bottom: 2px solid black;">
     <tr>
@@ -66,7 +65,7 @@ Here's my current availability for tutoring sessions:
 
 **Note:**
 
-*   This schedule is subject to change. Please check back regularly for updates.
+*   The schedule is subject to change. Please check back regularly for updates.
 *   If you don't see a time slot that works for you, feel free to contact me!
 
 <div style="

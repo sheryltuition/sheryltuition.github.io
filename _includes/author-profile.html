@@ -153,7 +153,13 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}     
+      {% if site.author.phone %}
+      <li class="author__item">
+        <i class="fas fa-phone"></i>
+        <a href="tel:{{ site.author.phone | replace: ' ', '' }}">{{ site.author.phone }}</a>
+      </li>
+    {% endif %}    
     </ul>
   </div>
 </div>

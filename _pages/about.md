@@ -15,7 +15,7 @@ I'm Sheryl Sevilla, a graduate from Nanyang Technological University with a degr
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxEXxQgsWvXIWL4KCpSIHRTX4XE2KgP92qMQ33tf0Fr5raLA/viewform?embedded=true" width="640" height="422" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div> -->
 
-Here's my current June 2025 availability for tutoring sessions:
+Here's my **June 2025** availability for tutoring sessions:
 
 <table style="border-collapse: collapse; width: 100%; font-size: 13px;">
   <thead style="border-bottom: 2px solid black;">
@@ -69,7 +69,7 @@ Here's my current June 2025 availability for tutoring sessions:
 
 ## Quick Links
 
-Check out my Schedule and Fees pages on this site:
+Check out my Schedule and Fees pages:
 
 - [Schedule]({{ "/schedule/" | relative_url }})
 - [Fees]({{ "/fees/" | relative_url }})
