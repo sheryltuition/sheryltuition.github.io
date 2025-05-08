@@ -156,8 +156,9 @@
       {% endif %}     
       {% if author.phone %}
       <li>
-        <a href="tel:{{ author.phone | replace: ' ', '' }}">
-          <i class="fas fa-fw fa-phone icon-pad-right" aria-hidden="true"></i>Phone
+        {%- assign phone_href = author.phone | remove: ' ' -%}
+        <a href="tel:{{ phone_href }}">
+          <i class="fas fa-fw fa-phone icon-pad-right" aria-hidden="true"></i>{{ author.phone }}
         </a>
       </li>
     {% endif %}   
