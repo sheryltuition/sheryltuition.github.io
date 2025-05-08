@@ -8,7 +8,7 @@ Here's my current availability for tutoring sessions:
 
 **[June, 2025]**
 
-<table style="border-collapse: collapse; width: 100%; font-size: 13px;">
+<!-- <table style="border-collapse: collapse; width: 100%; font-size: 13px;">
   <thead style="border-bottom: 2px solid black;">
     <tr>
       <th style="width: 30%;">Subject</th>
@@ -50,7 +50,7 @@ Here's my current availability for tutoring sessions:
       <td style="white-space: nowrap;">Monday 10am-12pm<br>Wednesday 3pm-5pm</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNj0nhW1nS3an3Y8E5JPyq_xakh368C2Nk0r4xwtph-CsQCxWMXV-xId25FARbvOanwjm0fy_pY4W5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
@@ -62,13 +62,12 @@ Here's my current availability for tutoring sessions:
 **How to Book a Session:**
 
 1.  Check the table above for available time slots.
-2.  Send me an email at sheryltuition@gmail.com with your preferred date, time, and subject.
-3.  I'll confirm your booking within 24 hours.
+2.  Fill in the form in the Homepage and I'll confirm your booking within 24 hours.
 
 **Note:**
 
 *   This schedule is subject to change. Please check back regularly for updates.
-*   If you don't see a time slot that works for you, feel free to contact me, and we'll try to find a solution.
+*   If you don't see a time slot that works for you, feel free to contact me!
 
 <div style="
   display: flex;
