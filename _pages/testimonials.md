@@ -36,3 +36,13 @@ Here are some kind words from my past parents and students:
 **EOY/O/NA Level Score:** B3 
 
 ---
+
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2em;
+">
+  <a href="{{ "/" | relative_url }}">← Return to Homepage</a>
+  <a href="{{ "/schedule/" | relative_url }}">Go to Schdule →</a>
+</div>
