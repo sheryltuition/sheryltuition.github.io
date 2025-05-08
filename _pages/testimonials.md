@@ -44,5 +44,5 @@ Here are some kind words from my past parents and students:
   margin-top: 2em;
 ">
   <a href="{{ "/" | relative_url }}">← Return to Homepage</a>
-  <a href="{{ "/schedule/" | relative_url }}">Go to Schdule →</a>
+  <a href="{{ "/schedule/" | relative_url }}">Go to Schedule →</a>
 </div>

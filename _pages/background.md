@@ -19,3 +19,13 @@ Pure Biology
 Additional Mathematics  
 Elementary Mathematics  
 Geography/Social Studies (Combined)  
+
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2em;
+">
+  <a href="{{ "/" | relative_url }}">← Return to Homepage</a>
+  <!-- <a href="{{ "/schedule/" | relative_url }}">Go to Schdule →</a> -->
+</div>
